@@ -33,8 +33,7 @@
 
 
 
-|---|---|
-| `PyTorch` | Neural Network ও Autograd |
+
 | `Pandas` | ডেটা লোড ও প্রসেসিং |
 | `NumPy` | Array অপারেশন |
 | `Scikit-learn` | Scaling, Encoding, Train-test split |# pytorch-training-pipeline
