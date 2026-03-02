@@ -30,9 +30,3 @@
 - Test data তে prediction করে accuracy বের করা হয়েছে
 
 ---
-
-
-
-
-
-
