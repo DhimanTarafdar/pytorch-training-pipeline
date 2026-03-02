@@ -35,4 +35,4 @@
 
 
 
-| `Scikit-learn` | Scaling, Encoding, Train-test split |# pytorch-training-pipeline
+
