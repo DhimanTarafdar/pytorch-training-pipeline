@@ -26,7 +26,7 @@
 - Epochs: `25`
 - Manual **Gradient Descent** দিয়ে weights ও bias আপডেট করা হয়েছে
 
-### ৫. মূল্যায়ন (Evaluation)
+### ৫. Evaluation
 - Test data তে prediction করে accuracy বের করা হয়েছে
 
 ---
