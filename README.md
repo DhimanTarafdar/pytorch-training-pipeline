@@ -32,7 +32,7 @@
 ---
 
 
-| লাইব্রেরি | কাজ |
+
 |---|---|
 | `PyTorch` | Neural Network ও Autograd |
 | `Pandas` | ডেটা লোড ও প্রসেসিং |
